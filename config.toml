@@ -1,0 +1,19 @@
+baseURL = 'https://manish-003.github.io/aura/'
+languageCode = 'en-us'
+title = 'AURA'
+theme = "ananke"
+
+paginate = 3
+SectionPagesMenu = "main"
+
+[params]
+recent_posts_number = 3
+
+[[params.ananke_socials]]
+name = "email"
+url = "https://www.google.com"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.google.com"
+
