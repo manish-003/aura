@@ -8,7 +8,7 @@ menu:
 ---
 
 
-The department of robotics and automation(R&A) started in the year 2020 at REC, with 35 
+The department of robotics and automation(R&A) started in the year 2020 at REC, with 35
 students, and now it has grown to 150+ over the years, and we strongly believe it will rise more 
 in the coming years.
 Our department is always open to learning and exploring new technologies even though we are 

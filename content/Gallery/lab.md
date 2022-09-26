@@ -4,7 +4,7 @@ draft: false
 featured_image : '/images/ial.png'
 ---
 
-Named after the famous science fiction writer 'Issac Asimov' who first introduced the concept of robot is our RA lab
+Our RA lab is named after the famous science fiction writer 'Issac Asimov'-- who first introduced the concept of robot.
 
 {{< figure src=/aura/images/ralab.png title="The Issac Asimov Lab" >}}  
 ..  
@@ -18,4 +18,4 @@ Named after the famous science fiction writer 'Issac Asimov' who first introduce
 {{< figure src=/aura/images/dobot.jpeg title="The desktop robotic arm Dobot " >}}  
 .. 
 
-{{< figure src=/aura/images/arm.jpeg title="Mitsubishi indestrial robotic arm" >}}
+{{< figure src=/aura/images/arm.jpeg title="Mitsubishi industrial robotic arm" >}}
