@@ -8,6 +8,7 @@ SectionPagesMenu = "main"
 
 [params]
 recent_posts_number = 3
+site_logo = "auralogo.png"
 
 [[params.ananke_socials]]
 name = "email"
