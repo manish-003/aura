@@ -1,5 +1,5 @@
 ---
-title: "Indestrial Visit to KKR metal components"
+title: "Industrial Visit to KKR metal components"
 draft: false
 featured_image : '/IV/kkr/kkrm.png'
 ---

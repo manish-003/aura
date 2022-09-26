@@ -1,12 +1,14 @@
 ---
-title: "Aura"
+title: "AURA"
 
 description: "Join the Robolution"
 theme_version: '2.8.2'
 cascade:
   featured_image: '/curves.jpg'
 ---
- _Welcome to the official page of the Assosiation of Undergraduates of Robotics and Automtion_
+ _Welcome to the official page of the Assosiation of Undergraduates of Robotics and Automtion_  
+ {{< figure src=robogates.jpg >}}  
+ 
 # Aura
 ## Join the Robolution
 
