@@ -29,7 +29,7 @@ members. Below is a list of the organizing committee members for 2022 - 2023.
 > __Members__: Kavinesh L, Ramunaathan K, Agastheswaran A   
 
 - __CONTENT TEAM HEAD__: Nareshputhin A
-> __Members__: Annie R, Sanjay S, Sayuj Sudhir, Sreevarshan R, Lokesh N, Monesh K, Vani M, Rajesh M, > >  Manish S N  
+> __Members__: Annie R, Sanjay S, Sayuj Sudhir, Sreevarshan R, Lokesh N, Monesh K, Vani M, Rajesh M, Manish S N  
 
 - __VIDEO TEAM HEAD__: Jishnu M
 > __Members__: Jayasurya A, Chiradeep Ganesh, Sanjai S   
