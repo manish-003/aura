@@ -35,8 +35,8 @@ members. Below is a list of the organizing committee members for 2022 - 2023.
 > __Members__: Jayasurya A, Chiradeep Ganesh, Sanjai S   
 
 - __EDITORIAL TEAM__:
-  * __Editor in chief__: Sarah T
-> > __Members__: Girivarshini V, Mohammed Fahim H   
+  __Editor in chief__: Sarah T
+> __Members__: Girivarshini V, Mohammed Fahim H   
 
 - __DESIGN TEAM HEAD__: Guru Vinayak G 
 > __Members__: Nandhitha A, Agastheswaran A, Jayasurya A, Ramunaathan K  
