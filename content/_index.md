@@ -6,11 +6,9 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/curves.jpg'
 ---
- _Welcome to the official page of the Assosiation of Undergraduates of Robotics and Automtion_  
+ _Welcome to the official page of the Association of Undergraduates of Robotics and Automtion_  
  {{< figure src=robogates.jpg >}}  
  
-# Aura
-## Join the Robolution
 
 Association for Undergraduates of Robotics & Automation (AURA) is a club run entirely by 
 the students of Robotics and Automation Department. It aims to be the hub for student-developed projects and strives to create a platform with the highest standards for such projects' 

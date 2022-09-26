@@ -1,10 +1,9 @@
 ---
-title: "Posts"
-description: "here is where we share"
-featured_image: '/images/post.jpg'
+title: "Robotalks"
+date: 2022-09-26T17:09:38+05:30
+featured_image : '/images/cuterobot.jpg'
+draft: false
 ---
-
-here are our posts
 
 __*ROBOTALKS*__ is a semi-annual newsletter brought to You by the department of Robotics & 
 Automation. A slew of new ideas is brought to the table, which defines RoboTalks and sets it 
