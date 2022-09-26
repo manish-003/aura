@@ -6,7 +6,7 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/curves.jpg'
 ---
- _Welcome to the official page of the Association for Undergraduates of Robotics and Automtion_  
+ _Welcome to the official page of the Association for Undergraduates of Robotics and Automation_  
  {{< figure src=robogates.jpg >}}  
  
 

@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "we are club of engineering students persuing Robotics and Automation Engineering"
+description: "we are club of engineering students pursuing Robotics and Automation Engineering"
 featured_image: '/images/what.png'
 menu:
   main:
