@@ -12,7 +12,7 @@ site_logo = "auralogo.png"
 
 [[params.ananke_socials]]
 name = "email"
-url = "auraclubrec@gmail.com"
+url = "mailto: auraclubrec@gmail.com"
 
 [[params.ananke_socials]]
 name = "instagram"
