@@ -47,5 +47,5 @@ members. Below is a list of the organizing committee members for 2022 - 2023.
 - __PHOTOGRAPHY TEAM HEAD__: Sanjai S 
 > __Members__: Balaji L R, Gukanathan N, Vishnu Teja N, Chiradeep Ganesh S, Agastheswaran A   
 
-- __NEW TECHNOLOGY TEAM__: 
-> __Members__: Monish S, Kishore Kanna S, Raja K, Abilashini R
+- __NEW TECHNOLOGY TEAM HEAD__: Abilashini R  
+> __Members__: Monish S, Kishore Kanna S, Raja K

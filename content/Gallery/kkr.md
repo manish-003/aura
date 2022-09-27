@@ -19,4 +19,4 @@ featured_image : '/IV/kkr/kkrm.png'
 {{< figure src=/aura/IV/kkr/meas.JPG title="dimension testing machine" >}}  
 ..
 
-{{< figure src=/aura/IV/kkr/studkkr.png title="Explaining the process" >}}
+{{< figure src=/aura/IV/kkr/studkkr.png title="RA 2020 batch who visited" >}}
