@@ -1,7 +1,7 @@
 ---
 title: "Officials"
 description: "here listed are our wonderful team"
-featured_image: '/images/members.jpg'
+featured_image: '/images/team.png'
 menu:
   main:
     weight: 2
@@ -13,9 +13,9 @@ The AURA's Organizing committee is clouded with elected core members and respect
 members. Below is a list of the organizing committee members for 2022 - 2023.
 - __PRESIDENT__: Balaji L R   
 
-- __SECRETARY__: Ramunaathan K   
-
 - __VICE PRESIDENT__: Nandhitha A  
+
+- __SECRETARY__: Ramunaathan K   
  
 - __JOINT SECRETARY__: Sarah T  
 
@@ -48,4 +48,6 @@ members. Below is a list of the organizing committee members for 2022 - 2023.
 > __Members__: Balaji L R, Gukanathan N, Vishnu Teja N, Chiradeep Ganesh S, Agastheswaran A   
 
 - __NEW TECHNOLOGY TEAM HEAD__: Abilashini R  
-> __Members__: Monish S, Kishore Kanna S, Raja K
+> __Members__: Monish S, Kishore Kanna S, Raja K  
+
+- __STAFF COORDINATOR__: Mr Easwaran A

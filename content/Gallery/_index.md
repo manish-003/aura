@@ -1,7 +1,7 @@
 ---
 title: "Gallery"
 description: "here is where we show off"
-featured_image: '/images/camera.jpg'
+featured_image: '/images/colourcam.jpg'
 menu:
   main
 ---
